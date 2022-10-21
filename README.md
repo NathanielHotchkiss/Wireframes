@@ -10,10 +10,13 @@ Built Figma Wireframes for a social media/collaboration platform concept. A clie
 
 
 Client provided hand drawings.  
+
 ![Fross Marketing Concept](/images/homepagePaper.png)
 
 Desktop wireframe design.  
+
 ![Fross Marketing Concept](/images/homepageDesktop.png)
 
 Mobile wireframe design.  
+
 ![Fross Marketing Concept](/images/homepageMobile.png)
