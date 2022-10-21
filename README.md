@@ -1,6 +1,6 @@
 # Wireframes
 
-Built Figma Wireframes for a social media/collaboration platform concept. A client through Upwork provided hand drawn designs, I turned them into digital wireframes. This was my first time creating content on Figma, and I had a blast working on it. I designed 12 pages in total, each featuring a desktop design and a mobile design. 
+Figma Wireframes for a social media/collaboration platform concept. A client through Upwork provided hand drawn designs, I turned them into digital wireframes. This was my first time creating content on Figma, and I had a blast working on it. I designed 12 pages in total, each featuring a desktop design and a mobile design. 
 
 ## Overview
 
